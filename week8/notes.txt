@@ -1,0 +1,17 @@
+1. Fix the GitHub upload issue
+2. KFVC sample code should go togithub
+
+
+What is
+Fitting standardization object, standardizer
+
+train_test_split(
+    features, target, random_state=0)
+
+Overfit/underfit
+
+
+
+
+
+Read Chapters 8, 20, and 21 of Machine Learning with Python and Chapters 11-12 from Applied Text Analysis with Python.
